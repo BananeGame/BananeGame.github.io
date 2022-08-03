@@ -1,0 +1,6 @@
+baseURL = 'https://bananegame.github.io/banane/'
+languageCode = 'en-us'
+title = 'Banane, le jeu'
+theme = "banane"
+  [params]
+    custom_css = ["custom.css"]
