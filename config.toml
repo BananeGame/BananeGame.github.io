@@ -1,4 +1,4 @@
-baseURL = 'https://bananegame.github.io/banane/'
+baseURL = 'https://bananegame.github.io/'
 languageCode = 'en-us'
 title = 'Banane, le jeu'
 theme = "banane"
